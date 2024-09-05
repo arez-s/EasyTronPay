@@ -1,0 +1,5 @@
+[31-Aug-2022 17:39:21 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/esbusinesspro/public_html/wp-content/plugins/EasyTronPay/main/phpqrcode/qr.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/esbusinesspro/public_html/wp-content/plugins/EasyTronPay/main/phpqrcode/qr.php on line 2
+[31-Aug-2022 17:42:05 Asia/Tehran] PHP Notice:  Undefined index: text in /home/esbusinesspro/public_html/wp-content/plugins/EasyTronPay/main/phpqrcode/qr.php on line 3

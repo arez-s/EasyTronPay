@@ -14,7 +14,7 @@ echo 'address => ' . $credential->address() . PHP_EOL;
 echo "</br>";
 echo 'import an existing private key...' . PHP_EOL;
 echo "</br>";
-$credential = Credential::fromPrivateKey('11e086b1ad5cccb6458357e14d2d01037c32a21f331cf5a8ee248a64c02f48a0');
+$credential = Credential::fromPrivateKey('***');
 echo 'private key => ' . $credential->privateKey() . PHP_EOL;
 echo "</br>";
 echo 'public key => ' . $credential->publicKey() . PHP_EOL;
